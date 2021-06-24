@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+}
+
+.profile {
+    height:200px; 
+    width: 175px;
+    margin-bottom: 100px;
+    border-radius: 50%;
+}
+
+#welcome {
+    position: absolute;
+    overflow: scroll;
+
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 1;
+    background: linear-gradient(#272be8 5%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive
+}
+
+
